@@ -1,1 +1,60 @@
 
+
+body{
+    font-family: 'Roboto', sans-serif;
+    background-color: #eee;
+    margin: 0;
+    padding: 0;
+
+}
+
+main{
+    margin: 100px;
+
+}
+header{
+    background-color: #6d8adbc7;
+    height: 70px;
+}
+
+ h1{
+    text-align: center;
+    padding-top:25px ;
+}
+
+#leftSection{
+    background-color: #dae4ff;
+    width: 400px;    
+    height: 300px;
+    float: left;
+    margin-right: 50px;
+    padding: 30px;
+
+
+}
+
+label{
+    text-align: left;
+    margin-left: 40px;
+    margin-top: 15px;
+    font-weight: bold;
+
+}
+
+input{
+    width: 300px;
+    padding: 10px;
+    margin-left: 40px;
+    
+}
+
+button{
+    background-color: #859ee3;
+    padding: 10px;
+    border: none;
+    float: right;
+    font-size: 17px;
+    color: white;
+    margin-right: 35px;
+    cursor: pointer;
+}
